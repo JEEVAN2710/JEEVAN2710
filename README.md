@@ -2,7 +2,7 @@
 
 🎓 Computer Science student at Bharati Vidyapeeth, Navi Mumbai (GPA: 8.4)  
 💡 Passionate about building real-world solutions using **Android, Web Development, and AI/NLP**  
-🌱 Currently exploring **React, FastAPI, MongoDB, and Cloud Deployment**  
+🌱 Currently exploring **React, FastAPI, MongoDB, Cloud Deployment , AI Agents Automation**  
 🎯 Open to collaborating on full-stack and ML-based projects  
 📬 Reach me at: [patiljeevan2710@gmail.com](mailto:patiljeevan2710@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/jeevanpatil27) | [GitHub](https://github.com/JEEVAN2710)
