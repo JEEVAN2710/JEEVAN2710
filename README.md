@@ -1,6 +1,6 @@
 # 👋 Hi, I'm JEEVAN PATIL
 
-🎓 Computer Science student at Bharati Vidyapeeth, Navi Mumbai 
+🎓 Computer Science student at Bharati Vidyapeeth, Navi Mumbai **
 💡 Passionate about building real-world solutions using **Android, Web Development, and AI/NLP**  
 🌱 Currently exploring **React, FastAPI, MongoDB, Cloud Deployment , AI Agents Automation**  
 🎯 Open to collaborating on full-stack and ML-based projects  
