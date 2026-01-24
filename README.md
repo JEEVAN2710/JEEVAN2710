@@ -1,8 +1,10 @@
 # 👋 Hi, I'm JEEVAN PATIL
 
-🎓 Computer Science student at Bharati Vidyapeeth, Navi Mumbai 
-💡 Passionate about building real-world solutions using **Android, Web Development, and AI/NLP**  
-🌱 Currently exploring **React, FastAPI, MongoDB, Cloud Deployment, AI Agents Automation**  
+🎓 **B.Tech Computer Science & Engineering** @ Bharati Vidyapeeth Deemed University, Navi Mumbai  
+💻 **Cybersecurity & Full Stack Developer** with hands-on experience in automation, AI agents, backend systems, and Android development  
+🔍 Passionate about building **secure, scalable, automation-driven systems, Android, Web Development, and AI/NLP**  
+🚀 Interested in **Backend Engineering, AI Agents, System Design, and Product Development**  
+🌱 Currently exploring **Blockchain, Cloud Deployment, AI Agents Automation**  
 🎯 Open to collaborating on full-stack and ML-based projects  
 📬 Reach me at: [patiljeevan2710@gmail.com](mailto:patiljeevan2710@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/jeevanpatil27) | [GitHub](https://github.com/JEEVAN2710) |
@@ -43,6 +45,23 @@
 ---
 
 ### 📁 Notable Projects
+
+### 🩺 **MedicalLocker – Electronic Health Record System**
+- Android-based EHR system with **offline support and real-time sync**
+- Implemented **blockchain-based immutable logs** for medical data auditing  
+**Tech:** Android (Java), Firebase, Blockchain
+
+### 🤖 **AI-Based Cattle & Buffalo Breed Classification**
+- CNN-based image classification system
+- **FastAPI backend**, multilingual UI, real-time camera detection  
+**Tech:** Python, CNN, FastAPI, AI/ML
+
+
+### 💰 **Expense Manager – Android App**
+- Offline personal finance tracker using SQLite
+- Add/edit/delete transactions with history logs  
+**Tech:** Android (Java), SQLite
+
 
 - 🔹 **[YouTube Video Summarizer](https://github.com/JEEVAN2710/youtube_video_summarizer):** Extract and summarize YouTube transcripts using NLP and Flask  
 - 🔹 **[Time Table Generator](https://github.com/JEEVAN2710/timetable_generator):** Auto-generates conflict-free academic timetables  
