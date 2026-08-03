@@ -1,0 +1,114 @@
+<svg width="480" height="220" viewBox="0 0 480 220" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <clipPath id="rc"><rect x="0" y="0" width="480" height="220" rx="18"/></clipPath>
+    
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#020f09"/>
+      <stop offset="100%" stop-color="#041b12"/>
+    </linearGradient>
+    <linearGradient id="ringGrad2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#39ff9d"/>
+      <stop offset="50%" stop-color="#7b5cff"/>
+      <stop offset="100%" stop-color="#ff6ec7"/>
+    </linearGradient>
+    <filter id="softGlow2" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="3.4"/>
+    </filter>
+    <linearGradient id="shine2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="30%" stop-color="#ffffff" stop-opacity="0"/>
+      <stop offset="48%" stop-color="#ffffff" stop-opacity="0.5"/>
+      <stop offset="60%" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+
+    
+  </defs>
+  <g clip-path="url(#rc)">
+    <rect x="0" y="0" width="480" height="220" fill="url(#bgGrad)"/>
+    <rect x="0" y="0" width="480" height="220" fill="none" stroke="#1c4a30" stroke-width="1.4"/>
+    <text x="24" y="30" font-family="Poppins, Verdana, sans-serif" font-size="17" font-weight="700" fill="#eafff2">Achievements &amp; Trophies</text>
+      <g transform="translate(24.0,48)" opacity="0">
+        <animate attributeName="opacity" begin="0.35s" dur="0.4s" values="0;1" fill="freeze"/>
+        <animateTransform attributeName="transform" type="scale" begin="0.35s" dur="0.45s" values="0.5;1.08;1"
+          keyTimes="0;0.7;1" fill="freeze" additive="sum"/>
+        <rect x="0" y="0" width="60.3" height="150" rx="12" fill="#08160f" stroke="#ff6ec7" stroke-width="1.6"/>
+        <rect x="0" y="0" width="60.3" height="150" rx="12" fill="none" stroke="#ff6ec7" stroke-width="1.6" opacity="0.5" filter="url(#softGlow2)"/>
+        <text x="30.2" y="63.0" text-anchor="middle" font-family="Poppins, Verdana, sans-serif" font-size="22" font-weight="800" fill="#ff6ec7">S</text>
+        <text x="30.2" y="108.0" text-anchor="middle" font-family="Poppins, Verdana, sans-serif" font-size="10.5" fill="#8fd9b5">Pull Shark</text>
+        <g clip-path="url(#rc)">
+          <rect x="-60.3" y="0" width="60.3" height="150" fill="url(#shine2)" transform="skewX(-15)">
+            <animate attributeName="x" from="-84.5" to="96.5" dur="3.2s" begin="1.20s" repeatCount="indefinite"/>
+          </rect>
+        </g>
+      </g>
+      <g transform="translate(98.3,48)" opacity="0">
+        <animate attributeName="opacity" begin="0.50s" dur="0.4s" values="0;1" fill="freeze"/>
+        <animateTransform attributeName="transform" type="scale" begin="0.50s" dur="0.45s" values="0.5;1.08;1"
+          keyTimes="0;0.7;1" fill="freeze" additive="sum"/>
+        <rect x="0" y="0" width="60.3" height="150" rx="12" fill="#08160f" stroke="#39ff9d" stroke-width="1.6"/>
+        <rect x="0" y="0" width="60.3" height="150" rx="12" fill="none" stroke="#39ff9d" stroke-width="1.6" opacity="0.5" filter="url(#softGlow2)"/>
+        <text x="30.2" y="63.0" text-anchor="middle" font-family="Poppins, Verdana, sans-serif" font-size="22" font-weight="800" fill="#39ff9d">A</text>
+        <text x="30.2" y="108.0" text-anchor="middle" font-family="Poppins, Verdana, sans-serif" font-size="10.5" fill="#8fd9b5">Repositories</text>
+        <g clip-path="url(#rc)">
+          <rect x="-60.3" y="0" width="60.3" height="150" fill="url(#shine2)" transform="skewX(-15)">
+            <animate attributeName="x" from="-84.5" to="96.5" dur="3.2s" begin="1.45s" repeatCount="indefinite"/>
+          </rect>
+        </g>
+      </g>
+      <g transform="translate(172.7,48)" opacity="0">
+        <animate attributeName="opacity" begin="0.65s" dur="0.4s" values="0;1" fill="freeze"/>
+        <animateTransform attributeName="transform" type="scale" begin="0.65s" dur="0.45s" values="0.5;1.08;1"
+          keyTimes="0;0.7;1" fill="freeze" additive="sum"/>
+        <rect x="0" y="0" width="60.3" height="150" rx="12" fill="#08160f" stroke="#4fd8ff" stroke-width="1.6"/>
+        <rect x="0" y="0" width="60.3" height="150" rx="12" fill="none" stroke="#4fd8ff" stroke-width="1.6" opacity="0.5" filter="url(#softGlow2)"/>
+        <text x="30.2" y="63.0" text-anchor="middle" font-family="Poppins, Verdana, sans-serif" font-size="22" font-weight="800" fill="#4fd8ff">B</text>
+        <text x="30.2" y="108.0" text-anchor="middle" font-family="Poppins, Verdana, sans-serif" font-size="10.5" fill="#8fd9b5">Followers</text>
+        <g clip-path="url(#rc)">
+          <rect x="-60.3" y="0" width="60.3" height="150" fill="url(#shine2)" transform="skewX(-15)">
+            <animate attributeName="x" from="-84.5" to="96.5" dur="3.2s" begin="1.70s" repeatCount="indefinite"/>
+          </rect>
+        </g>
+      </g>
+      <g transform="translate(247.0,48)" opacity="0">
+        <animate attributeName="opacity" begin="0.80s" dur="0.4s" values="0;1" fill="freeze"/>
+        <animateTransform attributeName="transform" type="scale" begin="0.80s" dur="0.45s" values="0.5;1.08;1"
+          keyTimes="0;0.7;1" fill="freeze" additive="sum"/>
+        <rect x="0" y="0" width="60.3" height="150" rx="12" fill="#08160f" stroke="#ffd166" stroke-width="1.6"/>
+        <rect x="0" y="0" width="60.3" height="150" rx="12" fill="none" stroke="#ffd166" stroke-width="1.6" opacity="0.5" filter="url(#softGlow2)"/>
+        <text x="30.2" y="63.0" text-anchor="middle" font-family="Poppins, Verdana, sans-serif" font-size="22" font-weight="800" fill="#ffd166">B</text>
+        <text x="30.2" y="108.0" text-anchor="middle" font-family="Poppins, Verdana, sans-serif" font-size="10.5" fill="#8fd9b5">Stars</text>
+        <g clip-path="url(#rc)">
+          <rect x="-60.3" y="0" width="60.3" height="150" fill="url(#shine2)" transform="skewX(-15)">
+            <animate attributeName="x" from="-84.5" to="96.5" dur="3.2s" begin="1.95s" repeatCount="indefinite"/>
+          </rect>
+        </g>
+      </g>
+      <g transform="translate(321.3,48)" opacity="0">
+        <animate attributeName="opacity" begin="0.95s" dur="0.4s" values="0;1" fill="freeze"/>
+        <animateTransform attributeName="transform" type="scale" begin="0.95s" dur="0.45s" values="0.5;1.08;1"
+          keyTimes="0;0.7;1" fill="freeze" additive="sum"/>
+        <rect x="0" y="0" width="60.3" height="150" rx="12" fill="#08160f" stroke="#7b5cff" stroke-width="1.6"/>
+        <rect x="0" y="0" width="60.3" height="150" rx="12" fill="none" stroke="#7b5cff" stroke-width="1.6" opacity="0.5" filter="url(#softGlow2)"/>
+        <text x="30.2" y="63.0" text-anchor="middle" font-family="Poppins, Verdana, sans-serif" font-size="22" font-weight="800" fill="#7b5cff">A</text>
+        <text x="30.2" y="108.0" text-anchor="middle" font-family="Poppins, Verdana, sans-serif" font-size="10.5" fill="#8fd9b5">Commits</text>
+        <g clip-path="url(#rc)">
+          <rect x="-60.3" y="0" width="60.3" height="150" fill="url(#shine2)" transform="skewX(-15)">
+            <animate attributeName="x" from="-84.5" to="96.5" dur="3.2s" begin="2.20s" repeatCount="indefinite"/>
+          </rect>
+        </g>
+      </g>
+      <g transform="translate(395.7,48)" opacity="0">
+        <animate attributeName="opacity" begin="1.10s" dur="0.4s" values="0;1" fill="freeze"/>
+        <animateTransform attributeName="transform" type="scale" begin="1.10s" dur="0.45s" values="0.5;1.08;1"
+          keyTimes="0;0.7;1" fill="freeze" additive="sum"/>
+        <rect x="0" y="0" width="60.3" height="150" rx="12" fill="#08160f" stroke="#ff9ecb" stroke-width="1.6"/>
+        <rect x="0" y="0" width="60.3" height="150" rx="12" fill="none" stroke="#ff9ecb" stroke-width="1.6" opacity="0.5" filter="url(#softGlow2)"/>
+        <text x="30.2" y="63.0" text-anchor="middle" font-family="Poppins, Verdana, sans-serif" font-size="22" font-weight="800" fill="#ff9ecb">A+</text>
+        <text x="30.2" y="108.0" text-anchor="middle" font-family="Poppins, Verdana, sans-serif" font-size="10.5" fill="#8fd9b5">Experience</text>
+        <g clip-path="url(#rc)">
+          <rect x="-60.3" y="0" width="60.3" height="150" fill="url(#shine2)" transform="skewX(-15)">
+            <animate attributeName="x" from="-84.5" to="96.5" dur="3.2s" begin="2.45s" repeatCount="indefinite"/>
+          </rect>
+        </g>
+      </g>
+  </g>
+</svg>

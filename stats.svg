@@ -1,0 +1,76 @@
+<svg width="480" height="260" viewBox="0 0 480 260" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <clipPath id="rc"><rect x="0" y="0" width="480" height="260" rx="18"/></clipPath>
+    
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#020f09"/>
+      <stop offset="100%" stop-color="#041b12"/>
+    </linearGradient>
+    <linearGradient id="ringGrad2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#39ff9d"/>
+      <stop offset="50%" stop-color="#7b5cff"/>
+      <stop offset="100%" stop-color="#ff6ec7"/>
+    </linearGradient>
+    <filter id="softGlow2" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="3.4"/>
+    </filter>
+    <linearGradient id="shine2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="30%" stop-color="#ffffff" stop-opacity="0"/>
+      <stop offset="48%" stop-color="#ffffff" stop-opacity="0.5"/>
+      <stop offset="60%" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+
+    
+  </defs>
+  <g clip-path="url(#rc)">
+    <rect x="0" y="0" width="480" height="260" fill="url(#bgGrad)"/>
+    <rect x="0" y="0" width="480" height="260" fill="none" stroke="#1c4a30" stroke-width="1.4"/>
+    
+    <text x="24" y="34" font-family="Poppins, Verdana, sans-serif" font-size="17" font-weight="700" fill="#eafff2">Jeevan's GitHub Stats</text>
+    <g transform="translate(92,130)">
+      <circle r="62" fill="none" stroke="#123322" stroke-width="12"/>
+      <circle r="62" fill="none" stroke="url(#ringGrad2)" stroke-width="12" stroke-linecap="round"
+        transform="rotate(-90)"
+        stroke-dasharray="0 389.6">
+        <animate attributeName="stroke-dasharray" begin="0.3s" dur="1.6s" fill="freeze"
+          values="0 389.6;335.0 389.6" calcMode="spline" keySplines="0.2 0 0.2 1"/>
+      </circle>
+      <text x="0" y="-2" text-anchor="middle" font-family="Poppins, Verdana, sans-serif" font-size="30" font-weight="800" fill="#eafff2">A+</text>
+      <text x="0" y="20" text-anchor="middle" font-family="Poppins, Verdana, sans-serif" font-size="11" fill="#8fd9b5">RANK</text>
+    </g>
+    
+      <g opacity="0" transform="translate(40,0)">
+        <animate attributeName="opacity" begin="0.50s" dur="0.5s" values="0;1" fill="freeze"/>
+        <animateTransform attributeName="transform" type="translate" begin="0.50s" dur="0.5s"
+          values="40,0;0,0" fill="freeze"/>
+        <text x="200" y="58" font-family="Poppins, Verdana, sans-serif" font-size="16" fill="#eafff2">📦  Public Repositories</text>
+        <text x="450" y="58" text-anchor="end" font-family="'JetBrains Mono', Consolas, monospace" font-size="16" font-weight="700" fill="#39ff9d">23</text>
+        <line x1="200" y1="72" x2="450" y2="72" stroke="#1c4a30" stroke-width="1"/>
+      </g>
+      <g opacity="0" transform="translate(40,0)">
+        <animate attributeName="opacity" begin="0.68s" dur="0.5s" values="0;1" fill="freeze"/>
+        <animateTransform attributeName="transform" type="translate" begin="0.68s" dur="0.5s"
+          values="40,0;0,0" fill="freeze"/>
+        <text x="200" y="104" font-family="Poppins, Verdana, sans-serif" font-size="16" fill="#eafff2">👥  Followers</text>
+        <text x="450" y="104" text-anchor="end" font-family="'JetBrains Mono', Consolas, monospace" font-size="16" font-weight="700" fill="#39ff9d">6</text>
+        <line x1="200" y1="118" x2="450" y2="118" stroke="#1c4a30" stroke-width="1"/>
+      </g>
+      <g opacity="0" transform="translate(40,0)">
+        <animate attributeName="opacity" begin="0.86s" dur="0.5s" values="0;1" fill="freeze"/>
+        <animateTransform attributeName="transform" type="translate" begin="0.86s" dur="0.5s"
+          values="40,0;0,0" fill="freeze"/>
+        <text x="200" y="150" font-family="Poppins, Verdana, sans-serif" font-size="16" fill="#eafff2">🔗  Following</text>
+        <text x="450" y="150" text-anchor="end" font-family="'JetBrains Mono', Consolas, monospace" font-size="16" font-weight="700" fill="#39ff9d">2</text>
+        <line x1="200" y1="164" x2="450" y2="164" stroke="#1c4a30" stroke-width="1"/>
+      </g>
+      <g opacity="0" transform="translate(40,0)">
+        <animate attributeName="opacity" begin="1.04s" dur="0.5s" values="0;1" fill="freeze"/>
+        <animateTransform attributeName="transform" type="translate" begin="1.04s" dur="0.5s"
+          values="40,0;0,0" fill="freeze"/>
+        <text x="200" y="196" font-family="Poppins, Verdana, sans-serif" font-size="16" fill="#eafff2">🏆  Achievements</text>
+        <text x="450" y="196" text-anchor="end" font-family="'JetBrains Mono', Consolas, monospace" font-size="16" font-weight="700" fill="#39ff9d">Pull Shark</text>
+        <line x1="200" y1="210" x2="450" y2="210" stroke="#1c4a30" stroke-width="1"/>
+      </g>
+    
+  </g>
+</svg>
