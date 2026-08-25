@@ -1,9 +1,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="banner.svg?v=6">
-  <source media="(prefers-color-scheme: light)" srcset="banner-light.svg?v=6">
-  <img alt="Jeevan Patil banner" src="banner.svg?v=6" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="banner.svg?v=7">
+  <source media="(prefers-color-scheme: light)" srcset="banner-light.svg?v=7">
+  <img alt="Jeevan Patil banner" src="banner.svg?v=7" width="100%">
 </picture>
 
 </div>
@@ -12,7 +12,7 @@
 
 <div align="center">
 
-<img src="lanyard.svg?v=6" width="240" alt="Jeevan Patil ID badge">
+<img src="lanyard.svg?v=7" width="240" alt="Jeevan Patil ID badge">
 
 </div>
 
@@ -44,8 +44,8 @@
 
 <div align="center">
 
-<img src="stats.svg?v=6" width="47%" alt="GitHub stats">
-<img src="langs.svg?v=6" width="47%" alt="Most used languages">
+<img src="stats.svg?v=7" width="47%" alt="GitHub stats">
+<img src="langs.svg?v=7" width="47%" alt="Most used languages">
 
 <br/>
 
@@ -53,11 +53,7 @@
 
 <br/>
 
-[![Contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=JEEVAN2710&bg_color=170e28&color=ff6ec7&line=ff6ec7&point=ffffff&area=true&area_color=8b5cf6&hide_border=true&custom_title=Contribution%20Graph%20💚)](https://github.com/JEEVAN2710)
-
-<br/>
-
-<img src="trophies.svg?v=6" width="96%" alt="Achievements and trophies">
+<img src="trophies.svg?v=7" width="96%" alt="Achievements and trophies">
 
 </div>
 
