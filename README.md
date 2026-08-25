@@ -1,23 +1,22 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="banner.svg?v=5">
-  <source media="(prefers-color-scheme: light)" srcset="banner-light.svg?v=5">
-  <img alt="Jeevan Patil banner" src="banner.svg?v=5" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="banner.svg?v=6">
+  <source media="(prefers-color-scheme: light)" srcset="banner-light.svg?v=6">
+  <img alt="Jeevan Patil banner" src="banner.svg?v=6" width="100%">
 </picture>
 
 </div>
 
 <br/>
 
-<table>
-<tr>
-<td width="240" valign="top" align="center">
+<div align="center">
 
-<img src="lanyard.svg?v=5" width="220" alt="Jeevan Patil ID badge">
+<img src="lanyard.svg?v=6" width="240" alt="Jeevan Patil ID badge">
 
-</td>
-<td valign="top">
+</div>
+
+<br/>
 
 ### 📌 Notable Projects
 
@@ -33,11 +32,11 @@
 | 🗓️ [timetable_generator](https://github.com/JEEVAN2710/timetable_generator) | `Python` |
 | 🗨️ [chat-app](https://github.com/JEEVAN2710/chat-app) | `JavaScript` `Firebase` |
 
+<div align="center">
+
 > 💚 *"Code. Coffee. Repeat."*
 
-</td>
-</tr>
-</table>
+</div>
 
 <br/>
 
@@ -45,8 +44,8 @@
 
 <div align="center">
 
-<img src="stats.svg?v=5" width="47%" alt="GitHub stats">
-<img src="langs.svg?v=5" width="47%" alt="Most used languages">
+<img src="stats.svg?v=6" width="47%" alt="GitHub stats">
+<img src="langs.svg?v=6" width="47%" alt="Most used languages">
 
 <br/>
 
@@ -58,7 +57,7 @@
 
 <br/>
 
-<img src="trophies.svg?v=5" width="96%" alt="Achievements and trophies">
+<img src="trophies.svg?v=6" width="96%" alt="Achievements and trophies">
 
 </div>
 
@@ -104,4 +103,3 @@
 *⭐️ Always learning, always building.* 🚀
 
 </div>
-
