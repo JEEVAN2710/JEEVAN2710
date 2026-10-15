@@ -1,9 +1,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="banner.svg?v=7">
-  <source media="(prefers-color-scheme: light)" srcset="banner-light.svg?v=7">
-  <img alt="Jeevan Patil banner" src="banner.svg?v=7" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="banner.svg?v=8">
+  <source media="(prefers-color-scheme: light)" srcset="banner-light.svg?v=8">
+  <img alt="Jeevan Patil banner" src="banner.svg?v=8" width="100%">
 </picture>
 
 </div>
@@ -12,7 +12,7 @@
 
 <div align="center">
 
-<img src="lanyard.svg?v=7" width="240" alt="Jeevan Patil ID badge">
+<img src="lanyard.svg?v=8" width="380" alt="Jeevan Patil ID badge">
 
 </div>
 
@@ -44,8 +44,8 @@
 
 <div align="center">
 
-<img src="stats.svg?v=7" width="47%" alt="GitHub stats">
-<img src="langs.svg?v=7" width="47%" alt="Most used languages">
+<img src="stats.svg?v=8" width="47%" alt="GitHub stats">
+<img src="langs.svg?v=8" width="47%" alt="Most used languages">
 
 <br/>
 
@@ -53,7 +53,7 @@
 
 <br/>
 
-<img src="trophies.svg?v=7" width="96%" alt="Achievements and trophies">
+<img src="trophies.svg?v=8" width="96%" alt="Achievements and trophies">
 
 </div>
 
